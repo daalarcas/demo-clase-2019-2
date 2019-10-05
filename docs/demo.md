@@ -20,3 +20,5 @@ bla bla bla
 Ecuación:
 
 $$ x^2$$
+
+[Google](https://www.google.com/)
